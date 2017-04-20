@@ -18,7 +18,6 @@
  (string-length (number->string 42))
  2)
 
-
 (check-eq?
  (number? 4) #true)
 
